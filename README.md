@@ -1,7 +1,7 @@
 # Next Sentence Prediction
 - Next Sentence Prediction helps Implicit Discourse Relation Classification within and across Domains | 2019 EMNLP
 - NSP-BERT: A Prompt-based Zero-Shot Learner Through an Original Pre-training Task —— Next Sentence Prediction | 2021 
-- 
+- What comes next? Extractive summarization by next-sentence prediction
 
 
 # Sentence-Order Prediction
